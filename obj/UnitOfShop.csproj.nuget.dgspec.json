@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj": {}
+    "C:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj": {
+    "C:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj",
+        "projectUniqueName": "C:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj",
         "projectName": "UnitOfShop",
-        "projectPath": "c:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj",
+        "projectPath": "C:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\UnitOfShop.csproj",
         "packagesPath": "C:\\Users\\Samsung\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\obj\\",
+        "outputPath": "C:\\Users\\Samsung\\Desktop\\ExeDotNet\\UnitOfShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samsung\\AppData\\Roaming\\NuGet\\NuGet.Config",

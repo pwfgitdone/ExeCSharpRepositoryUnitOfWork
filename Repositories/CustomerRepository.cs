@@ -18,7 +18,6 @@ namespace UnitOfShop.Repositories
         public void Save(Customer customer)
         {
             _context.Customers.Add(customer);
-            _context.SaveChanges();
         }
     }
 }

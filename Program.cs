@@ -10,6 +10,7 @@ builder.Services.AddControllers();
 builder.Services.AddDbContext<DataContext>(opt => opt.UseInMemoryDatabase("database"));
 builder.Services.AddTransient<ICustomerRepository, CustomerRepository>();
 builder.Services.AddTransient<IOrderRepository, OrderRepository>();
+builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
